@@ -58,10 +58,15 @@ social_media_enagagement/
 ### 1. Clone the repository
 
 git clone https://github.com/pps-3/social_media_enagagement.git
+
 cd social_media_enagagement
+
 2. Install required libraries
+   
 pip install -r requirements.txt
-3. Run the notebook
+
+4. Run the notebook
+
 jupyter notebook notebooks/social_media_analysis.ipynb
 
 👩‍💻 Author:
