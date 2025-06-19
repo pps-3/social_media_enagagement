@@ -15,6 +15,7 @@ This project explores how social media engagement varies across different platfo
 ## 📁 Project Structure
 
 social_media_enagagement/
+
 ├── data/ # Contains the social media dataset
 
 ├── notebooks/ # Jupyter notebook with complete analysis
